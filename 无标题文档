@@ -1,0 +1,7 @@
+https://blog.csdn.net/weiwenhp/article/details/52966540
+sudo apt-get install git
+
+git config --global user.name "weic"
+git config --global user.email "269988436@qq.com"
+
+ssh-keygen -t rsa -C "269988436@qq.com"
